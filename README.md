@@ -85,6 +85,6 @@ Skills Demonstrated
 - KPI Development
 - User Navigation Design
 
----
 
-⭐ This project demonstrates end-to-end BI development including interactivity, forecasting, and business insights.
+
+This project demonstrates end-to-end BI development including interactivity, forecasting, and business insights.
