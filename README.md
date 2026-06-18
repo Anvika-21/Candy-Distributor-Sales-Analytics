@@ -1,6 +1,6 @@
 Candy Distributor Sales Analytics
 
-![Overview](Overview.png)
+[Overview](Overview.png)
 
 
 Project Overview
